@@ -89,5 +89,9 @@ step3:xxxxxx,
 #### 25: midi钢琴模拟器
 输入歌曲的midi， 然后开心的演奏~
 
-#### 26: meido
+#### 26: [meido](https://github.com/aitseH/meido)
 定时脚本管理维护工具
+
+#### 27: 个人小型推荐系统
+
+脑洞中~~~
